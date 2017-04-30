@@ -1,0 +1,12 @@
+Original String : 11111111111111111111111111
+Original String with Parity : 1111111111111111111111111111111
+Corrupted String : 1111111111111111111111111101111
+Number of Errors Introduced : 1
+Error Location : 27
+
+Original String : 11111111111111111111110000
+Original String with Parity : 1111111111111111111111111110000
+Corrupted String : 1111111111110111111111111110000
+Number of Errors Introduced : 1
+Error Location : 13
+

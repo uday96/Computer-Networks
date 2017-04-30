@@ -1,0 +1,70 @@
+
+Number Of Nodes : 50
+Initial Collision Window Size : 2
+Probability Of Packet Generation : 0.01
+Average Packet Delay : 28.181600000000014 slots
+Utilisation (Pkts transmitted per Slot) : 0.27627446198212735
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 2
+Probability Of Packet Generation : 0.02
+Average Packet Delay : 38.49539999999998 slots
+Utilisation (Pkts transmitted per Slot) : 0.3233963220748774
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 2
+Probability Of Packet Generation : 0.03
+Average Packet Delay : 47.73199999999999 slots
+Utilisation (Pkts transmitted per Slot) : 0.32549753515774
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 2
+Probability Of Packet Generation : 0.05
+Average Packet Delay : 63.624600000000015 slots
+Utilisation (Pkts transmitted per Slot) : 0.31743947480662804
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 2
+Probability Of Packet Generation : 0.1
+Average Packet Delay : 73.51050000000001 slots
+Utilisation (Pkts transmitted per Slot) : 0.3146929888143279
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 4
+Probability Of Packet Generation : 0.01
+Average Packet Delay : 26.001499999999986 slots
+Utilisation (Pkts transmitted per Slot) : 0.2814553087069261
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 4
+Probability Of Packet Generation : 0.02
+Average Packet Delay : 39.06220000000003 slots
+Utilisation (Pkts transmitted per Slot) : 0.318973493981591
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 4
+Probability Of Packet Generation : 0.03
+Average Packet Delay : 48.96060000000001 slots
+Utilisation (Pkts transmitted per Slot) : 0.3251173456396072
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 4
+Probability Of Packet Generation : 0.05
+Average Packet Delay : 65.10699999999996 slots
+Utilisation (Pkts transmitted per Slot) : 0.3160725572865816
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 4
+Probability Of Packet Generation : 0.1
+Average Packet Delay : 70.07350000000005 slots
+Utilisation (Pkts transmitted per Slot) : 0.32709136612695006
+

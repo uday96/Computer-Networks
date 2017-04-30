@@ -1,0 +1,140 @@
+Original String : 11111111111111111111111111
+Original String with Parity : 1111111111111111111111111111111
+Corrupted String : 1111111111111111111111111111111
+Number of Errors introduced : 2
+Parity bits that failed : 
+Error Detected : Yes
+
+Original String : 11111111111111111111111111
+Original String with Parity : 1111111111111111111111111111111
+Corrupted String : 1111110111111111111111111111011
+Number of Errors introduced : 2
+Parity bits that failed :  2  8  16 
+Error Detected : Yes
+
+Original String : 11111111111111111111111111
+Original String with Parity : 1111111111111111111111111111111
+Corrupted String : 1111111111011111111111101111111
+Number of Errors introduced : 2
+Parity bits that failed :  1  2  16 
+Error Detected : Yes
+
+Original String : 11111111111111111111111111
+Original String with Parity : 1111111111111111111111111111111
+Corrupted String : 1111111101111111101111111111111
+Number of Errors introduced : 2
+Parity bits that failed :  1  2  8  16 
+Error Detected : Yes
+
+Original String : 11111111111111111111111111
+Original String with Parity : 1111111111111111111111111111111
+Corrupted String : 1111111111111101111011111111111
+Number of Errors introduced : 2
+Parity bits that failed :  1  2  8  16 
+Error Detected : Yes
+
+Original String : 11111111111111111111111111
+Original String with Parity : 1111111111111111111111111111111
+Corrupted String : 1111111111101110111111111111111
+Number of Errors introduced : 2
+Parity bits that failed :  4  8  16 
+Error Detected : Yes
+
+Original String : 11111111111111111111111111
+Original String with Parity : 1111111111111111111111111111111
+Corrupted String : 1111111111111111111111111111001
+Number of Errors introduced : 2
+Parity bits that failed :  1  2 
+Error Detected : Yes
+
+Original String : 11111111111111111111111111
+Original String with Parity : 1111111111111111111111111111111
+Corrupted String : 1111111111111111111011011111111
+Number of Errors introduced : 2
+Parity bits that failed :  1  2 
+Error Detected : Yes
+
+Original String : 11111111111111111111111111
+Original String with Parity : 1111111111111111111111111111111
+Corrupted String : 1111011111111111110111111111111
+Number of Errors introduced : 2
+Parity bits that failed :  2  4  16 
+Error Detected : Yes
+
+Original String : 11111111111111111111111111
+Original String with Parity : 1111111111111111111111111111111
+Corrupted String : 0111111011111111111111111111111
+Number of Errors introduced : 2
+Parity bits that failed :  1  8 
+Error Detected : Yes
+
+Original String : 11111111111111111111110000
+Original String with Parity : 1111111111111111111111111110000
+Corrupted String : 1111011111111111111111110110000
+Number of Errors introduced : 2
+Parity bits that failed :  4  8  16 
+Error Detected : Yes
+
+Original String : 11111111111111111111110000
+Original String with Parity : 1111111111111111111111111110000
+Corrupted String : 1111011111110111111111111110000
+Number of Errors introduced : 2
+Parity bits that failed :  8 
+Error Detected : Yes
+
+Original String : 11111111111111111111110000
+Original String with Parity : 1111111111111111111111111110000
+Corrupted String : 1110011111111111111111111110000
+Number of Errors introduced : 2
+Parity bits that failed :  1 
+Error Detected : Yes
+
+Original String : 11111111111111111111110000
+Original String with Parity : 1111111111111111111111111110000
+Corrupted String : 1111110111111111111111111110001
+Number of Errors introduced : 2
+Parity bits that failed :  8  16 
+Error Detected : Yes
+
+Original String : 11111111111111111111110000
+Original String with Parity : 1111111111111111111111111110000
+Corrupted String : 1111111111111110111111111100000
+Number of Errors introduced : 2
+Parity bits that failed :  1  2  8 
+Error Detected : Yes
+
+Original String : 11111111111111111111110000
+Original String with Parity : 1111111111111111111111111110000
+Corrupted String : 1111111110111111110111111110000
+Number of Errors introduced : 2
+Parity bits that failed :  1  8  16 
+Error Detected : Yes
+
+Original String : 11111111111111111111110000
+Original String with Parity : 1111111111111111111111111110000
+Corrupted String : 1111111111111111011011111110000
+Number of Errors introduced : 2
+Parity bits that failed :  1  4 
+Error Detected : Yes
+
+Original String : 11111111111111111111110000
+Original String with Parity : 1111111111111111111111111110000
+Corrupted String : 1111111111111110111111111110001
+Number of Errors introduced : 2
+Parity bits that failed :  1  2  4  8 
+Error Detected : Yes
+
+Original String : 11111111111111111111110000
+Original String with Parity : 1111111111111111111111111110000
+Corrupted String : 1111111110111111111111101110000
+Number of Errors introduced : 2
+Parity bits that failed :  2  16 
+Error Detected : Yes
+
+Original String : 11111111111111111111110000
+Original String with Parity : 1111111111111111111111111110000
+Corrupted String : 1111111111111111011111101110000
+Number of Errors introduced : 2
+Parity bits that failed :  1  8 
+Error Detected : Yes
+

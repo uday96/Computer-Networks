@@ -1,0 +1,65 @@
+Script started on Sat 11 Feb 2017 05:47:34 PM IST
+]0;LAB4theprogrammer@Beast:~/Music/LAB4$ ./emailclient localhost 4096
+Main-Prompt> Listusers
+Response From Server : No Users present
+Main-Prompt> Adduser UserA
+Response From Server : User Added Successfully
+Main-Prompt> Adduser UserB
+Response From Server : User Added Successfully
+Main-Prompt> Adduser UserC
+Response From Server : User Added Successfully
+Main-Prompt> Listusers
+Response From Server : UserA UserC UserB
+Main-Prompt> SetUser UserA
+Response From Server : User 'UserA' exists and has 0 mails
+Sub-Prompt-UserA> Read
+Response From Server : No More Mail
+Sub-Prompt-UserA> Send UserB
+Type Message: How do you do?###
+Response From Server : Mail sent to UserB successfully!
+Sub-Prompt-UserA> Send UserC
+Type Message: What is the time?###
+Response From Server : Mail sent to UserC successfully!
+Sub-Prompt-UserA> Send UserB
+Type Message: Is the ATM working?###
+Response From Server : Mail sent to UserB successfully!
+Sub-Prompt-UserA> Send UserC
+Type Message: Are you studying?###
+Response From Server : Mail sent to UserC successfully!
+Sub-Prompt-UserA> Done
+Response From Server : End Current Session
+Main-Prompt> SetUser UserB
+Response From Server : User 'UserB' exists and has 2 mails
+Sub-Prompt-UserB> Read
+Response From Server : 
+
+From: UserA
+To: UserB
+Date: Sat Feb 11 17:49:20 IST 2017
+Message: How do you do?
+
+Sub-Prompt-UserB> Send UserA
+Type Message: Where are you now?###
+Response From Server : Mail sent to UserA successfully!
+Sub-Prompt-UserB> Delete
+Response From Server : Deleted Mail Successfully
+Sub-Prompt-UserB> Done
+Response From Server : End Current Session
+Main-Prompt> SetUser UserA
+Response From Server : User 'UserA' exists and has 1 mails
+Sub-Prompt-UserA> Read
+Response From Server : 
+
+From: UserB
+To: UserA
+Date: Sat Feb 11 17:51:46 IST 2017
+Message: Where are you now?
+
+Sub-Prompt-UserA> Done
+Response From Server : End Current Session
+Main-Prompt> Quit
+Response From Server : Exited Successfully
+]0;LAB4theprogrammer@Beast:~/Music/LAB4$ exit
+exit
+
+Script done on Sat 11 Feb 2017 05:52:12 PM IST

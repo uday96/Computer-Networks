@@ -1,0 +1,5 @@
+COMMENTS:
+1. This is an email client and server implementation through socket interface where server stores all the files and required data is transmitted between server and client.
+
+ISSUES:
+1. My program doesnt work for multiple clients running on same server simultaneously.

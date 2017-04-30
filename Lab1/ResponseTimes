@@ -1,0 +1,17 @@
+Input Msg : "Hi"
+TCP Response TIme : 14 us
+UDP Response TIme : 9 us
+(*Took the Avergae over 500 runs)
+
+Input Msg : "Hello World!!!"
+TCP Response TIme : 16 us	
+UDP Response TIme : 9 us
+(*Took the Avergae over 500 runs)
+
+Input Msg : "abcdefghijklmnopqrstuvwxyz"
+TCP Response TIme : 14 us
+UDP Response TIme : 10 us
+(*Took the Avergae over 500 runs)
+
+
+Inference : UDP is faster than TCP

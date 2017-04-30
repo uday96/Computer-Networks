@@ -1,0 +1,76 @@
+Script started on Tuesday 21 March 2017 08:04:07 PM IST
+]0;user@user-HP-ENVY-15-Notebook-PC: ~/Acads/NetworksLab/Lab7user@user-HP-ENVY-15-Notebook-PC:~/Acads/NetworksLab/Lab7$ ./ShellScript.sh
+
+Number Of Nodes : 50
+Initial Collision Window Size : 2
+Probability Of Packet Generation : 0.01
+Average Packet Delay : 26.843200000000003 slots
+Utilisation (Pkts transmitted per Slot) : 0.2799890203763159
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 2
+Probability Of Packet Generation : 0.02
+Average Packet Delay : 39.786799999999964 slots
+Utilisation (Pkts transmitted per Slot) : 0.32251415233914443
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 2
+Probability Of Packet Generation : 0.03
+Average Packet Delay : 46.74990000000002 slots
+Utilisation (Pkts transmitted per Slot) : 0.3329403574250566
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 2
+Probability Of Packet Generation : 0.05
+Average Packet Delay : 63.334799999999966 slots
+Utilisation (Pkts transmitted per Slot) : 0.3185478240326931
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 2
+Probability Of Packet Generation : 0.1
+Average Packet Delay : 74.86410000000005 slots
+Utilisation (Pkts transmitted per Slot) : 0.31609965083181535
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 4
+Probability Of Packet Generation : 0.01
+Average Packet Delay : 24.73319999999999 slots
+Utilisation (Pkts transmitted per Slot) : 0.283929590464962
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 4
+Probability Of Packet Generation : 0.02
+Average Packet Delay : 39.014000000000024 slots
+Utilisation (Pkts transmitted per Slot) : 0.32068446449154836
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 4
+Probability Of Packet Generation : 0.03
+Average Packet Delay : 50.37829999999999 slots
+Utilisation (Pkts transmitted per Slot) : 0.32165667089880917
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 4
+Probability Of Packet Generation : 0.05
+Average Packet Delay : 63.070100000000004 slots
+Utilisation (Pkts transmitted per Slot) : 0.3198719567099963
+
+
+Number Of Nodes : 50
+Initial Collision Window Size : 4
+Probability Of Packet Generation : 0.1
+Average Packet Delay : 72.64690000000002 slots
+Utilisation (Pkts transmitted per Slot) : 0.32153864755992245
+
+]0;user@user-HP-ENVY-15-Notebook-PC: ~/Acads/NetworksLab/Lab7user@user-HP-ENVY-15-Notebook-PC:~/Acads/NetworksLab/Lab7$ exit
+exit
+
+Script done on Tuesday 21 March 2017 08:04:28 PM IST

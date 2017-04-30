@@ -1,0 +1,12 @@
+COMMENTS:
+
+• This is a Sliding Window Go-Back-N(GBN) reliable transmission protocol implementation.
+• The Sender initially send a Window of Packets to the Receiver
+• The Receiver send an ACK packet if the received packet is the expected packet
+• For every ACK received, the Window slides by one unit, sending the next packet
+• In case a packet is dropped, Timeout occurs and a new Window from last Unacknowledged packet is sent
+
+
+ISSUES:
+
+• Timeouts for few packets are less than 1 milli second, Java socket timeout rounds its to 0. For such cases I am setting timeout to 1 milli second.

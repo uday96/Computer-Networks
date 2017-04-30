@@ -1,0 +1,18 @@
+javac SlottedAloha.java
+
+java SlottedAloha -N 50 -W 2 -p 0.01 -M 100 | tee -a output.txt
+java SlottedAloha -N 50 -W 2 -p 0.02 -M 100	| tee -a output.txt 
+java SlottedAloha -N 50 -W 2 -p 0.03 -M 100 | tee -a output.txt
+java SlottedAloha -N 50 -W 2 -p 0.05 -M 100 | tee -a output.txt
+java SlottedAloha -N 50 -W 2 -p 0.1 -M 100 | tee -a output.txt
+java SlottedAloha -N 50 -W 4 -p 0.01 -M 100 | tee -a output.txt
+java SlottedAloha -N 50 -W 4 -p 0.02 -M 100 | tee -a output.txt
+java SlottedAloha -N 50 -W 4 -p 0.03 -M 100 | tee -a output.txt
+java SlottedAloha -N 50 -W 4 -p 0.05 -M 100 | tee -a output.txt
+java SlottedAloha -N 50 -W 4 -p 0.1 -M 100 | tee -a output.txt
+
+jar1_name=jcommon-1.0.23.jar
+jar2_name=jfreechart-1.0.19.jar
+
+javac -cp ".:$PWD/$jar1_name:$PWD/$jar2_name" UtilisationPlot.java
+java -cp ".:$PWD/$jar1_name:$PWD/$jar2_name" UtilisationPlot
